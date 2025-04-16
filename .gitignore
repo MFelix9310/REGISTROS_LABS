@@ -1,0 +1,23 @@
+# Archivos compilados
+*.exe
+*.spec
+*.pkg
+
+# Carpetas generadas
+dist/
+build/
+installer/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entorno virtual
+venv/
+env/
+
+# Archivos de Inno Setup
+*.iss
+
+# Otros archivos generados
+*.bak
+*.tmp 
