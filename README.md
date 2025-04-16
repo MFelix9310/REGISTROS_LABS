@@ -1,4 +1,4 @@
-# Sistema de Gestión de Registros de Laboratorios UAGRO
+# Sistema de Gestión de Registros de Laboratorios LABS
 
 ![Logo UAGRO](https://via.placeholder.com/150x50)
 
@@ -198,4 +198,4 @@ Desarrollado exclusivamente para la Universidad Autónoma de Guerrero (UAGRO) - 
 
 ## ✉️ Contacto
 
-Para soporte técnico, contacta al desarrollador en: [ejemplo@email.com](mailto:ejemplo@email.com) 
+Para soporte técnico, contacta al desarrollador en: [f.alejorm93@gmail.com](mailto: f.alejorm93@gmail.com) 
